@@ -9,9 +9,9 @@ export default class SearchBar extends React.Component{
         return (
             <div className="search">
                 <div className="search_input">
-                    <SearchIcon classnMe="search_inputIcon"/>
+                    <SearchIcon className="search_inputIcon"/>
                     <input/>
-                    <MicIcon/>
+                    <MicIcon className="search_inputIcon"/>
                 </div>
 
                 <div className="search_buttons">

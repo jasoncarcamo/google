@@ -23,6 +23,7 @@
 }
 
 .search_inputIcon{
+    cursor: pointer;
     color: gray
 }
 

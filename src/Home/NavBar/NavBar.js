@@ -14,7 +14,6 @@ export default class NavBar extends React.Component{
           <div className="home_headerLeft">
             <Link to="/about">About</Link>
             <Link to="/about">Store</Link>
-
           </div>
 
           <div className="home_headerRight">
